@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView_MVC</string>
+    <string name="movieName">Shady</string>
+    <string name="MovieDate">2019</string>
+</resources>
